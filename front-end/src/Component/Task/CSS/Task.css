@@ -12,15 +12,27 @@
   border-color: #0243eb;
 }
 
-.action-button-completed{
+.action-button-completed, .action-button-cancel{
   background: white;
   color: #dc262b;
   border-color: #dc262b;
   font-weight: bold;
 }
 
-.action-button-completed:hover, .action-button-completed:focus{
+.action-button-completed:hover, .action-button-completed:focus, .action-button-cancel:hover, .action-button-cancel:focus{
   background: #fce4e5;
   color: #dc262b;
   border-color: #dc262b;
+}
+
+.float-right {
+  float: right;
+}
+
+.add-button {
+  width: 15%;
+}
+
+.edit-button {
+  width: 20%;
 }
