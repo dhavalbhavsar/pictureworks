@@ -1,0 +1,26 @@
+.action-button-create-edit{
+  background: white;
+  color: #0243eb;
+  border-color: #0243eb;
+  width: 10%;
+  font-weight: bold;
+}
+
+.action-button-create-edit:hover, .action-button-create-edit:focus{
+  background: #dbe9fd;
+  color: #0243eb;
+  border-color: #0243eb;
+}
+
+.action-button-completed{
+  background: white;
+  color: #dc262b;
+  border-color: #dc262b;
+  font-weight: bold;
+}
+
+.action-button-completed:hover, .action-button-completed:focus{
+  background: #fce4e5;
+  color: #dc262b;
+  border-color: #dc262b;
+}
