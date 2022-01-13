@@ -13,5 +13,5 @@ Using Laravel (v6), ReactJS (Latest version), PostgreSQL (Latest version) develo
 
 ### Setup
 
-1. Backend - Please follow the instructions in the backend folder for setup API.
-2. front-end - Please follow the instructions in the front-end folder for setup ReactJS application.
+1. Backend - Please follow the instructions in the `Backend` folder for setup API.
+2. front-end - Please follow the instructions in the `front-end` folder for setup ReactJS application.
